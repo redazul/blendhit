@@ -11,12 +11,16 @@
 
 
 Step1 : go to https://github.com/redazul/blendhit 
+
 Step2 : create a fork
 
 
 Step3: download the .blend project 
+
 Step4: start blending 
+
 Step5: download phantom wallet : https://phantom.app/
+
 Step6: create a pull request 
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 
