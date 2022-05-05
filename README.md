@@ -14,7 +14,6 @@ Step1 : go to https://github.com/redazul/blendhit
 
 Step2 : create a fork
 
-
 Step3: download the .blend project 
 
 Step4: start blending 
@@ -41,3 +40,9 @@ Multiple attire
 If there's a better collaborative tool out there let me know
 
 Winners will be announced May29th 2pm EST
+blendhit server 
+https://discord.gg/nMssRRhT
+
+Please use the server to ask questions.
+So we can update FAQ
+
