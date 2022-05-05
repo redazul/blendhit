@@ -21,7 +21,9 @@ Step4: start blending
 
 Step5: download phantom wallet : https://phantom.app/
 
-Step6: create a pull request 
+Step6: upload .blend file and Collada.dae
+
+Step7: create a pull request 
 
 How To Pull Request: 
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
@@ -29,6 +31,7 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 Important....
 There are more steps / information coming later 
 Still working out on naming conventions for the project 
+
 Ideally we want multiple versions of the model to be stored in the same blender project
 
 Multiple heads
