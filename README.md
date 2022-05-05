@@ -22,6 +22,8 @@ Step4: start blending
 Step5: download phantom wallet : https://phantom.app/
 
 Step6: create a pull request 
+
+How To Pull Request: 
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 
 Important....
