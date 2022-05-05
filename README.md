@@ -32,6 +32,7 @@ Still working out on naming conventions for the project
 Ideally we want multiple versions of the model to be stored in the same blender project
 
 Multiple heads
+
 Multiple attire 
 
 If there's a better collaborative tool out there let me know
